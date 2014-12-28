@@ -1,0 +1,12 @@
+/*
+Theme Name: Cordillera Child
+Theme URI: http://www.mageewp.com/cordillera-theme.html
+Description: Child theme for the Cordillera.
+Template: cordillera
+Version: 1.0.0
+Author: MageeWP
+Author URI: http://www.mageewp.com
+
+*/
+@import url("../cordillera/style.css");
+#header{ background:gray;}

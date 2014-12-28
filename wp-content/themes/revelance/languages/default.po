@@ -1,0 +1,3775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Revelance v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-12 16:08+0100\n"
+"PO-Revision-Date: 2014-10-12 16:08+0100\n"
+"Last-Translator: \n"
+"Language-Team: ABdev <support@ab-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:13
+msgid "404"
+msgstr ""
+
+#: ../404.php:14
+msgid "Oops, the Page You are Looking for can not be Found"
+msgstr ""
+
+#: ../dnd/abbr_dd.php:10
+msgid "Full Word"
+msgstr ""
+
+#: ../dnd/abbr_dd.php:14 ../dnd/abbr_dd.php:17
+msgid "Abbreviation"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:7
+msgid "New Accordion Section"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:8
+msgid "Accordion Section"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:11
+msgid "Expanded accordion no."
+msgstr ""
+
+#: ../dnd/accordions_dd.php:12
+msgid "Which accordion section will be expanded on load, 0 for none"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:16
+msgid "Accordion"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:27 ../dnd/callout_box_dd.php:8 ../dnd/h_dd.php:26
+#: ../dnd/service_box_dd.php:7 ../dnd/toggle_dd.php:7
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:145
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:31 ../dnd/callout_box_dd.php:77
+#: ../dnd/hidden_dd.php:22 ../dnd/member_dd.php:7 ../dnd/non_member_dd.php:7
+#: ../dnd/pullquote_dd.php:23 ../dnd/qrcode_dd.php:57 ../dnd/raw_dd.php:15
+#: ../dnd/service_box_dd.php:42 ../dnd/table_dd.php:34 ../dnd/text_dd.php:14
+#: ../dnd/toggle_dd.php:16 ../dnd/visible_dd.php:22
+msgid "Content"
+msgstr ""
+
+#: ../dnd/accordions_dd.php:33
+msgid "Single accordion section"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:16 ../dnd/button_dd.php:39
+#: ../dnd/pricing_box_dd.php:40 ../dnd/pricing_box_dd.php:73
+#: ../dnd/team_dd.php:7 ../inc/ab-shortcodes-additional.php:35
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Style"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:21
+msgid "No Icon"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:26
+msgid "No Close Button"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:30
+msgid "Message"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:32
+msgid "Alert Box"
+msgstr ""
+
+#: ../dnd/alert_box_dd.php:46 ../inc/redux/ReduxCore/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: ../dnd/animation_dd.php:8 ../dnd/divider_dd.php:28 ../dnd/image_dd.php:15
+#: ../dnd/ul_dd.php:16
+msgid "Entrance Animation"
+msgstr ""
+
+#: ../dnd/animation_dd.php:11 ../dnd/divider_dd.php:32 ../dnd/image_dd.php:18
+#: ../dnd/ul_dd.php:20
+msgid "Flip"
+msgstr ""
+
+#: ../dnd/animation_dd.php:12 ../dnd/divider_dd.php:33 ../dnd/image_dd.php:19
+#: ../dnd/ul_dd.php:21
+msgid "Flip In X"
+msgstr ""
+
+#: ../dnd/animation_dd.php:13 ../dnd/divider_dd.php:34 ../dnd/image_dd.php:20
+#: ../dnd/ul_dd.php:22
+msgid "Flip In Y"
+msgstr ""
+
+#: ../dnd/animation_dd.php:14 ../dnd/divider_dd.php:35 ../dnd/image_dd.php:21
+#: ../dnd/ul_dd.php:23
+msgid "Fade In"
+msgstr ""
+
+#: ../dnd/animation_dd.php:15 ../dnd/divider_dd.php:36 ../dnd/image_dd.php:22
+#: ../dnd/ul_dd.php:24
+msgid "Fade In Up"
+msgstr ""
+
+#: ../dnd/animation_dd.php:16 ../dnd/divider_dd.php:37 ../dnd/image_dd.php:23
+#: ../dnd/ul_dd.php:25
+msgid "Fade In Down"
+msgstr ""
+
+#: ../dnd/animation_dd.php:17 ../dnd/divider_dd.php:38 ../dnd/image_dd.php:24
+#: ../dnd/ul_dd.php:26
+msgid "Fade In Left"
+msgstr ""
+
+#: ../dnd/animation_dd.php:18 ../dnd/divider_dd.php:39 ../dnd/image_dd.php:25
+#: ../dnd/ul_dd.php:27
+msgid "Fade In Right"
+msgstr ""
+
+#: ../dnd/animation_dd.php:19 ../dnd/divider_dd.php:40 ../dnd/image_dd.php:26
+#: ../dnd/ul_dd.php:28
+msgid "Fade In Up Big"
+msgstr ""
+
+#: ../dnd/animation_dd.php:20 ../dnd/divider_dd.php:41 ../dnd/image_dd.php:27
+#: ../dnd/ul_dd.php:29
+msgid "Fade In Down Big"
+msgstr ""
+
+#: ../dnd/animation_dd.php:21 ../dnd/divider_dd.php:42 ../dnd/image_dd.php:28
+#: ../dnd/ul_dd.php:30
+msgid "Fade In Left Big"
+msgstr ""
+
+#: ../dnd/animation_dd.php:22 ../dnd/divider_dd.php:43 ../dnd/image_dd.php:29
+#: ../dnd/ul_dd.php:31
+msgid "Fade In Right Big"
+msgstr ""
+
+#: ../dnd/animation_dd.php:23 ../dnd/divider_dd.php:44 ../dnd/image_dd.php:30
+#: ../dnd/ul_dd.php:32
+msgid "Slide In Left"
+msgstr ""
+
+#: ../dnd/animation_dd.php:24 ../dnd/divider_dd.php:45 ../dnd/image_dd.php:31
+#: ../dnd/ul_dd.php:33
+msgid "Slide In Right"
+msgstr ""
+
+#: ../dnd/animation_dd.php:25 ../dnd/divider_dd.php:46 ../dnd/image_dd.php:32
+#: ../dnd/ul_dd.php:34
+msgid "Bounce In"
+msgstr ""
+
+#: ../dnd/animation_dd.php:26 ../dnd/divider_dd.php:47 ../dnd/image_dd.php:33
+#: ../dnd/ul_dd.php:35
+msgid "Bounce In Down"
+msgstr ""
+
+#: ../dnd/animation_dd.php:27 ../dnd/divider_dd.php:48 ../dnd/image_dd.php:34
+#: ../dnd/ul_dd.php:36
+msgid "Bounce In Up"
+msgstr ""
+
+#: ../dnd/animation_dd.php:28 ../dnd/divider_dd.php:49 ../dnd/image_dd.php:35
+#: ../dnd/ul_dd.php:37
+msgid "Bounce In Left"
+msgstr ""
+
+#: ../dnd/animation_dd.php:29 ../dnd/divider_dd.php:50 ../dnd/image_dd.php:36
+#: ../dnd/ul_dd.php:38
+msgid "Bounce In Right"
+msgstr ""
+
+#: ../dnd/animation_dd.php:30 ../dnd/divider_dd.php:51 ../dnd/image_dd.php:37
+#: ../dnd/ul_dd.php:39
+msgid "Rotate In"
+msgstr ""
+
+#: ../dnd/animation_dd.php:31 ../dnd/divider_dd.php:52 ../dnd/image_dd.php:38
+#: ../dnd/ul_dd.php:40
+msgid "Rotate In Down Left"
+msgstr ""
+
+#: ../dnd/animation_dd.php:32 ../dnd/divider_dd.php:53 ../dnd/image_dd.php:39
+#: ../dnd/ul_dd.php:41
+msgid "Rotate In Down Right"
+msgstr ""
+
+#: ../dnd/animation_dd.php:33 ../dnd/divider_dd.php:54 ../dnd/image_dd.php:40
+#: ../dnd/ul_dd.php:42
+msgid "Rotate In Up Left"
+msgstr ""
+
+#: ../dnd/animation_dd.php:34 ../dnd/divider_dd.php:55 ../dnd/image_dd.php:41
+#: ../dnd/ul_dd.php:43
+msgid "Rotate In Up Right"
+msgstr ""
+
+#: ../dnd/animation_dd.php:35 ../dnd/divider_dd.php:56 ../dnd/image_dd.php:42
+#: ../dnd/ul_dd.php:44
+msgid "Light Speed In"
+msgstr ""
+
+#: ../dnd/animation_dd.php:36 ../dnd/divider_dd.php:57 ../dnd/image_dd.php:43
+#: ../dnd/ul_dd.php:45
+msgid "Roll In"
+msgstr ""
+
+#: ../dnd/animation_dd.php:37 ../dnd/divider_dd.php:58 ../dnd/image_dd.php:44
+#: ../dnd/ul_dd.php:46
+msgid "Flash"
+msgstr ""
+
+#: ../dnd/animation_dd.php:38 ../dnd/divider_dd.php:59 ../dnd/image_dd.php:45
+#: ../dnd/ul_dd.php:47
+msgid "Bounce"
+msgstr ""
+
+#: ../dnd/animation_dd.php:39 ../dnd/divider_dd.php:60 ../dnd/image_dd.php:46
+#: ../dnd/ul_dd.php:48
+msgid "Shake"
+msgstr ""
+
+#: ../dnd/animation_dd.php:40 ../dnd/divider_dd.php:61 ../dnd/image_dd.php:47
+#: ../dnd/ul_dd.php:49
+msgid "Tada"
+msgstr ""
+
+#: ../dnd/animation_dd.php:41 ../dnd/divider_dd.php:62 ../dnd/image_dd.php:48
+#: ../dnd/ul_dd.php:50 ../inc/ab-shortcodes-additional.php:57
+msgid "Swing"
+msgstr ""
+
+#: ../dnd/animation_dd.php:42 ../dnd/divider_dd.php:63 ../dnd/image_dd.php:49
+#: ../dnd/ul_dd.php:51
+msgid "Wobble"
+msgstr ""
+
+#: ../dnd/animation_dd.php:43 ../dnd/divider_dd.php:64 ../dnd/image_dd.php:50
+#: ../dnd/ul_dd.php:52
+msgid "Pulse"
+msgstr ""
+
+#: ../dnd/animation_dd.php:47 ../dnd/image_dd.php:54
+msgid "Animation Duration (in ms)"
+msgstr ""
+
+#: ../dnd/animation_dd.php:51 ../dnd/image_dd.php:58
+msgid "Animation Delay (in ms)"
+msgstr ""
+
+#: ../dnd/animation_dd.php:55 ../dnd/button_dd.php:60
+#: ../dnd/callout_box_dd.php:72 ../dnd/children_dd.php:15
+#: ../dnd/dropcap_dd.php:12 ../dnd/icon_dd.php:41 ../dnd/image_dd.php:62
+#: ../dnd/knob_dd.php:62 ../dnd/pricing_box_dd.php:98
+#: ../dnd/progress_bar_dd.php:20 ../dnd/service_box_dd.php:37
+#: ../dnd/stats_excerpt_dd.php:24 ../dnd/table_dd.php:28 ../dnd/tabs_dd.php:38
+#: ../dnd/text_dd.php:8 ../dnd/ul_dd.php:11
+#: ../inc/ab-shortcodes-additional.php:87
+msgid "Class"
+msgstr ""
+
+#: ../dnd/animation_dd.php:56 ../dnd/button_dd.php:61
+#: ../dnd/callout_box_dd.php:73 ../dnd/children_dd.php:16
+#: ../dnd/dropcap_dd.php:13 ../dnd/h_dd.php:22 ../dnd/icon_dd.php:42
+#: ../dnd/image_dd.php:63 ../dnd/knob_dd.php:63 ../dnd/pricing_box_dd.php:99
+#: ../dnd/progress_bar_dd.php:21 ../dnd/service_box_dd.php:38
+#: ../dnd/stats_excerpt_dd.php:25 ../dnd/table_dd.php:29 ../dnd/tabs_dd.php:39
+#: ../dnd/text_dd.php:9 ../dnd/ul_dd.php:12
+msgid "Additional custom classes for custom styling"
+msgstr ""
+
+#: ../dnd/animation_dd.php:60
+msgid "Animated Content"
+msgstr ""
+
+#: ../dnd/animation_dd.php:62
+msgid "Animation Box"
+msgstr ""
+
+#: ../dnd/blockquote_dd.php:8
+msgid "Author"
+msgstr ""
+
+#: ../dnd/blockquote_dd.php:11 ../dnd/button_dd.php:48
+#: ../dnd/pricing_box_dd.php:82
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:153
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: ../dnd/blockquote_dd.php:14 ../inc/class-tgm-plugin-activation.php:1432
+msgid "Source"
+msgstr ""
+
+#: ../dnd/blockquote_dd.php:18
+msgid "Blockquote"
+msgstr ""
+
+#: ../dnd/blockquote_dd.php:20
+msgid "Blockquote Block"
+msgstr ""
+
+#: ../dnd/button_dd.php:8 ../dnd/callout_box_dd.php:16
+#: ../dnd/pricing_box_dd.php:43
+msgid "Button Text"
+msgstr ""
+
+#: ../dnd/button_dd.php:9 ../dnd/callout_box_dd.php:17
+msgid "Click Here"
+msgstr ""
+
+#: ../dnd/button_dd.php:12 ../dnd/pricing_box_dd.php:46
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Size"
+msgstr ""
+
+#: ../dnd/button_dd.php:16 ../dnd/callout_box_dd.php:24
+#: ../dnd/pricing_box_dd.php:50
+msgid "Small"
+msgstr ""
+
+#: ../dnd/button_dd.php:17 ../dnd/callout_box_dd.php:25
+#: ../dnd/pricing_box_dd.php:51
+msgid "Medium"
+msgstr ""
+
+#: ../dnd/button_dd.php:18 ../dnd/callout_box_dd.php:26
+#: ../dnd/pricing_box_dd.php:52
+msgid "Large"
+msgstr ""
+
+#: ../dnd/button_dd.php:19 ../dnd/callout_box_dd.php:27
+#: ../dnd/pricing_box_dd.php:53
+msgid "Extra Large"
+msgstr ""
+
+#: ../dnd/button_dd.php:23 ../dnd/pricing_box_dd.php:57
+msgid "Color"
+msgstr ""
+
+#: ../dnd/button_dd.php:27 ../dnd/callout_box_dd.php:35
+#: ../dnd/pricing_box_dd.php:61
+msgid "Light"
+msgstr ""
+
+#: ../dnd/button_dd.php:28 ../dnd/callout_box_dd.php:36
+#: ../dnd/pricing_box_dd.php:62
+msgid "Dark"
+msgstr ""
+
+#: ../dnd/button_dd.php:29 ../dnd/callout_box_dd.php:37
+#: ../dnd/pricing_box_dd.php:63
+msgid "Yellow"
+msgstr ""
+
+#: ../dnd/button_dd.php:30 ../dnd/callout_box_dd.php:38
+#: ../dnd/pricing_box_dd.php:64
+msgid "Green"
+msgstr ""
+
+#: ../dnd/button_dd.php:31 ../dnd/callout_box_dd.php:39
+#: ../dnd/pricing_box_dd.php:65
+msgid "Red"
+msgstr ""
+
+#: ../dnd/button_dd.php:32 ../dnd/callout_box_dd.php:40
+#: ../dnd/pricing_box_dd.php:66
+msgid "Blue"
+msgstr ""
+
+#: ../dnd/button_dd.php:33 ../dnd/callout_box_dd.php:41
+#: ../dnd/pricing_box_dd.php:67
+msgid "Gray"
+msgstr ""
+
+#: ../dnd/button_dd.php:34 ../dnd/callout_box_dd.php:42
+#: ../dnd/pricing_box_dd.php:68
+msgid "Cyan"
+msgstr ""
+
+#: ../dnd/button_dd.php:35 ../dnd/callout_box_dd.php:43
+#: ../dnd/pricing_box_dd.php:69
+msgid "Aquamarine"
+msgstr ""
+
+#: ../dnd/button_dd.php:43 ../dnd/callout_box_dd.php:51
+#: ../dnd/pricing_box_dd.php:77
+msgid "Normal"
+msgstr ""
+
+#: ../dnd/button_dd.php:44 ../dnd/callout_box_dd.php:52 ../dnd/knob_dd.php:33
+#: ../dnd/pricing_box_dd.php:78
+msgid "Rounded"
+msgstr ""
+
+#: ../dnd/button_dd.php:51 ../dnd/pricing_box_dd.php:85 ../dnd/rss_dd.php:14
+#: ../dnd/service_box_dd.php:28 ../dnd/tooltip_dd.php:15
+msgid "Target"
+msgstr ""
+
+#: ../dnd/button_dd.php:55 ../dnd/callout_box_dd.php:63
+#: ../dnd/pricing_box_dd.php:89 ../dnd/rss_dd.php:18
+#: ../dnd/service_box_dd.php:32 ../dnd/team_dd.php:93 ../dnd/tooltip_dd.php:19
+msgid "Self"
+msgstr ""
+
+#: ../dnd/button_dd.php:56 ../dnd/callout_box_dd.php:64
+#: ../dnd/pricing_box_dd.php:90 ../dnd/rss_dd.php:19
+#: ../dnd/service_box_dd.php:33 ../dnd/team_dd.php:94 ../dnd/tooltip_dd.php:20
+msgid "Blank"
+msgstr ""
+
+#: ../dnd/button_dd.php:64 ../dnd/icon_dd.php:10 ../dnd/pricing_box_dd.php:94
+#: ../dnd/stats_excerpt_dd.php:8 ../dnd/tabs_dd.php:78 ../dnd/ul_dd.php:86
+msgid "Icon Name"
+msgstr ""
+
+#: ../dnd/button_dd.php:65 ../dnd/callout_box_dd.php:69
+#: ../dnd/pricing_box_dd.php:95
+msgid "Optional icon after button text"
+msgstr ""
+
+#: ../dnd/button_dd.php:68
+msgid "Button"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:8 ../dnd/donate_dd.php:8
+msgid "Your Email"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:12 ../dnd/donate_dd.php:12
+msgid "Locale"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:15
+msgid "Item Name"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:18
+msgid "Item Number"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:21
+msgid "Item Price"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:25 ../dnd/donate_dd.php:22
+msgid "Currency"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:29
+msgid "Show credit cards"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:34
+msgid "Tax Rate"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:38
+msgid "Shipping Cost"
+msgstr ""
+
+#: ../dnd/buynow_dd.php:41
+msgid "BuyNow PayPal Button"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:13
+msgid "No Button"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:20
+msgid "Button Size"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:31
+msgid "Button Color"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:47
+msgid "Button Style"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:56
+msgid "Button URL"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:61
+msgid "Button Target"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:68
+msgid "Button Icon Name"
+msgstr ""
+
+#: ../dnd/callout_box_dd.php:79
+msgid "Callout Box"
+msgstr ""
+
+#: ../dnd/children_dd.php:8
+msgid "Parent Page ID"
+msgstr ""
+
+#: ../dnd/children_dd.php:12
+msgid "Depth"
+msgstr ""
+
+#: ../dnd/children_dd.php:19
+msgid "Children of Page"
+msgstr ""
+
+#: ../dnd/clear_dd.php:6
+msgid "Clear"
+msgstr ""
+
+#: ../dnd/clear_dd.php:7
+msgid "This shortcode generates clear:both div element"
+msgstr ""
+
+#: ../dnd/code_dd.php:9 ../dnd/pre_dd.php:9
+msgid "Unique ID"
+msgstr ""
+
+#: ../dnd/code_dd.php:10 ../dnd/pre_dd.php:10 ../dnd/raw_dd.php:11
+#: ../inc/class-tgm-plugin-activation.php:1212
+msgid "Required"
+msgstr ""
+
+#: ../dnd/code_dd.php:14
+msgid "Source Code"
+msgstr ""
+
+#: ../dnd/code_dd.php:17
+msgid "Code Prettifier"
+msgstr ""
+
+#: ../dnd/code_dd.php:18
+msgid ""
+"If you are using multiple code shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../dnd/current_year_dd.php:7
+msgid ""
+"This shortcode will generate current year, no matter when post was published"
+msgstr ""
+
+#: ../dnd/current_year_dd.php:8
+msgid "Current Year"
+msgstr ""
+
+#: ../dnd/date_dd.php:10
+msgid "PHP Date Format"
+msgstr ""
+
+#: ../dnd/date_dd.php:13
+msgid "Target Date"
+msgstr ""
+
+#: ../dnd/date_dd.php:14
+msgid ""
+"PHP strtotime acceptable string, e.g. yesterday, last Monday, 2 days ago..."
+msgstr ""
+
+#: ../dnd/date_dd.php:17
+msgid "Date"
+msgstr ""
+
+#: ../dnd/divider_dd.php:8 ../dnd/progress_bar_dd.php:12
+#: ../dnd/tooltip_dd.php:9
+msgid "Text"
+msgstr ""
+
+#: ../dnd/divider_dd.php:9
+msgid "e.g. Go to top"
+msgstr ""
+
+#: ../dnd/divider_dd.php:14 ../dnd/download_dd.php:20 ../dnd/email_dd.php:18
+msgid "With Icon"
+msgstr ""
+
+#: ../dnd/divider_dd.php:18
+msgid "Divider Style"
+msgstr ""
+
+#: ../dnd/divider_dd.php:31 ../dnd/qrcode_dd.php:19 ../dnd/tabs_dd.php:23
+#: ../dnd/ul_dd.php:19 ../inc/ab-shortcodes-additional.php:46
+msgid "None"
+msgstr ""
+
+#: ../dnd/divider_dd.php:68 ../dnd/ul_dd.php:56
+msgid "Animation Duration (ms)"
+msgstr ""
+
+#: ../dnd/divider_dd.php:72
+msgid "Content Divider"
+msgstr ""
+
+#: ../dnd/donate_dd.php:15
+msgid "Donation Name"
+msgstr ""
+
+#: ../dnd/donate_dd.php:18
+msgid "Amount"
+msgstr ""
+
+#: ../dnd/donate_dd.php:26
+msgid "Show Credit Cards"
+msgstr ""
+
+#: ../dnd/donate_dd.php:30
+msgid "Donate PayPal Button"
+msgstr ""
+
+#: ../dnd/download_dd.php:8
+msgid "Link Text"
+msgstr ""
+
+#: ../dnd/download_dd.php:11
+msgid "URL to File"
+msgstr ""
+
+#: ../dnd/download_dd.php:14
+msgid ""
+"Forces this filename, use full name with extension or leave blank for "
+"original file name"
+msgstr ""
+
+#: ../dnd/download_dd.php:15
+msgid "Filename"
+msgstr ""
+
+#: ../dnd/download_dd.php:23
+msgid "Download Button"
+msgstr ""
+
+#: ../dnd/download_dd.php:24
+msgid ""
+"This shortcode will generate link that forces download, even if browser can "
+"open that file type, e.g. .txt or .jpg file"
+msgstr ""
+
+#: ../dnd/dropcap_dd.php:9
+msgid "Dropcap letter"
+msgstr ""
+
+#: ../dnd/dropcap_dd.php:16
+msgid "Dropcap Letter"
+msgstr ""
+
+#: ../dnd/email_dd.php:8
+msgid "Email Address"
+msgstr ""
+
+#: ../dnd/email_dd.php:13
+msgid "Cloak Email from Spam Bots"
+msgstr ""
+
+#: ../dnd/email_dd.php:21
+msgid "Email Link"
+msgstr ""
+
+#: ../dnd/email_dd.php:22
+msgid ""
+"This shortcode will hide email address form spam bots using JavaScript method"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:8 ../dnd/team_dd.php:41 ../inc/redux.php:174
+msgid "Twitter URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:11 ../dnd/team_dd.php:44 ../inc/redux.php:184
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:14 ../dnd/team_dd.php:38 ../inc/redux.php:169
+msgid "Facebook URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:17 ../dnd/team_dd.php:47
+msgid "Google+ URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:20 ../dnd/team_dd.php:62 ../inc/redux.php:209
+msgid "Dribbble URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:23 ../dnd/team_dd.php:80 ../inc/redux.php:244
+msgid "Skype URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:26 ../inc/redux.php:259
+msgid "YouTube URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:29 ../dnd/team_dd.php:86 ../inc/redux.php:254
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:32 ../dnd/team_dd.php:50 ../inc/redux.php:189
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:35 ../dnd/team_dd.php:53 ../inc/redux.php:194
+msgid "Github URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:38 ../dnd/rss_dd.php:7 ../dnd/team_dd.php:56
+#: ../inc/redux.php:199
+msgid "Feed URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:41 ../dnd/team_dd.php:59 ../inc/redux.php:204
+msgid "Behance URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:44 ../dnd/team_dd.php:65 ../inc/redux.php:214
+msgid "Dropbox URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:47 ../dnd/team_dd.php:68 ../inc/redux.php:224
+msgid "Flickr URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:50 ../dnd/team_dd.php:71 ../inc/redux.php:229
+msgid "Instagram URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:53 ../inc/redux.php:234
+msgid "Lastfm URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:56 ../dnd/team_dd.php:77 ../inc/redux.php:239
+msgid "Picasa URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:59 ../inc/redux.php:249
+msgid "Stumbleupon URL"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:62
+msgid "Mail Address"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:65
+msgid "Follow us Profile Links"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:66
+msgid "Shortcode will display Social networks icons with link to entered URLs"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:74 ../partials/header_menu.php:15
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:76 ../partials/header_menu.php:18
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:78 ../partials/header_menu.php:21
+msgid "Follow us on Google+"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:80 ../partials/header_menu.php:24
+msgid "Follow us on Linkedin"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:82 ../partials/header_menu.php:27
+msgid "Follow us on Pinterest"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:84 ../partials/header_menu.php:69
+msgid "Our YouTube Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:86 ../partials/header_menu.php:66
+msgid "Our Vimeo Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:88 ../partials/header_menu.php:30
+msgid "Follow us on Github"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:90 ../partials/header_menu.php:33
+msgid "Our RSS feed"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:92 ../partials/header_menu.php:36
+msgid "Our Behance Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:94 ../partials/header_menu.php:39
+msgid "Our Dribbble Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:96 ../partials/header_menu.php:42
+msgid "Our Dropbox Files"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:98 ../partials/header_menu.php:45
+msgid "Send Us Email"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:100 ../partials/header_menu.php:48
+msgid "Our Flickr Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:102 ../partials/header_menu.php:51
+msgid "Our Instagram Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:104 ../partials/header_menu.php:54
+msgid "Our last.fm Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:106 ../partials/header_menu.php:57
+msgid "Our Picasa Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:108 ../partials/header_menu.php:60
+msgid "Our Skype Profile"
+msgstr ""
+
+#: ../dnd/follow_us_dd.php:110 ../partials/header_menu.php:63
+msgid "Our StumbleUpon Profile"
+msgstr ""
+
+#: ../dnd/h_dd.php:18 ../dnd/service_box_dd.php:13
+#: ../inc/class-tgm-plugin-activation.php:1433
+msgid "Type"
+msgstr ""
+
+#: ../dnd/h_dd.php:21
+msgid "Custom class"
+msgstr ""
+
+#: ../dnd/h_dd.php:28
+msgid "H1-H6 Headings"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:11 ../dnd/visible_dd.php:11
+msgid "Desktop"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:12 ../dnd/visible_dd.php:12
+msgid "Tablet"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:13 ../dnd/visible_dd.php:13
+msgid "Phablet"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:14 ../dnd/visible_dd.php:14
+msgid "Phone"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:15 ../dnd/visible_dd.php:15
+msgid "Deskop and Tablet"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:16 ../dnd/visible_dd.php:16
+msgid "Phabplet and Phone"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:18
+msgid "Hide on Devices"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:24
+msgid "Hidden on devices"
+msgstr ""
+
+#: ../dnd/hidden_dd.php:25
+msgid ""
+"This shortcode will make content hidden on selected devices, using @media "
+"css method"
+msgstr ""
+
+#: ../dnd/highlight_dd.php:11
+msgid "Highlight Color"
+msgstr ""
+
+#: ../dnd/highlight_dd.php:16
+msgid "Text Color"
+msgstr ""
+
+#: ../dnd/highlight_dd.php:20
+msgid "Highlighted Content"
+msgstr ""
+
+#: ../dnd/highlight_dd.php:22
+msgid "Highlighted text"
+msgstr ""
+
+#: ../dnd/icon_dd.php:14
+msgid "Icon Size"
+msgstr ""
+
+#: ../dnd/icon_dd.php:19 ../dnd/ul_dd.php:91
+msgid "Icon Color"
+msgstr ""
+
+#: ../dnd/icon_dd.php:24
+msgid "Rotate Icon"
+msgstr ""
+
+#: ../dnd/icon_dd.php:29
+msgid "Icon Box"
+msgstr ""
+
+#: ../dnd/icon_dd.php:33
+msgid "Icon Box Padding"
+msgstr ""
+
+#: ../dnd/icon_dd.php:38
+msgid "Icon Box Background Color"
+msgstr ""
+
+#: ../dnd/icon_dd.php:45
+msgid "Icon"
+msgstr ""
+
+#: ../dnd/image_dd.php:8
+msgid "Select Image"
+msgstr ""
+
+#: ../dnd/image_dd.php:11
+msgid "Image Alt Text"
+msgstr ""
+
+#: ../dnd/image_dd.php:66
+msgid "Image"
+msgstr ""
+
+#: ../dnd/knob_dd.php:8
+msgid "Knob Number"
+msgstr ""
+
+#: ../dnd/knob_dd.php:11
+msgid "Hide Number"
+msgstr ""
+
+#: ../dnd/knob_dd.php:16
+msgid "Angle Offset"
+msgstr ""
+
+#: ../dnd/knob_dd.php:17
+msgid "Starting angle in degrees, default=0"
+msgstr ""
+
+#: ../dnd/knob_dd.php:20
+msgid "Angle Arc"
+msgstr ""
+
+#: ../dnd/knob_dd.php:21
+msgid "Arc size in degrees, default=360"
+msgstr ""
+
+#: ../dnd/knob_dd.php:24
+msgid "Arc Thickness"
+msgstr ""
+
+#: ../dnd/knob_dd.php:25
+msgid "Percent of arc out of circle, 1 very thick, 100 full circle"
+msgstr ""
+
+#: ../dnd/knob_dd.php:28
+msgid "Arc Stroke Ending"
+msgstr ""
+
+#: ../dnd/knob_dd.php:32 ../inc/admin/page_additional_fields.php:85
+#: ../inc/admin/post_additional_fields.php:105
+#: ../inc/redux/ReduxCore/framework.php:2249
+msgid "Default"
+msgstr ""
+
+#: ../dnd/knob_dd.php:37
+msgid "Full Color"
+msgstr ""
+
+#: ../dnd/knob_dd.php:42
+msgid "Empty Color"
+msgstr ""
+
+#: ../dnd/knob_dd.php:46
+msgid "Inner Circle Color"
+msgstr ""
+
+#: ../dnd/knob_dd.php:50
+msgid "Number Color"
+msgstr ""
+
+#: ../dnd/knob_dd.php:55
+msgid "Inner Circle Distance"
+msgstr ""
+
+#: ../dnd/knob_dd.php:56
+msgid ""
+"Distance of inner circle from arc, only if Inner Circle Color is defined; "
+"value in px"
+msgstr ""
+
+#: ../dnd/knob_dd.php:59
+msgid "Knob Label"
+msgstr ""
+
+#: ../dnd/knob_dd.php:66
+msgid "Knob"
+msgstr ""
+
+#: ../dnd/map_dd.php:9
+#: ../inc/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Height"
+msgstr ""
+
+#: ../dnd/map_dd.php:14
+msgid "Map Type"
+msgstr ""
+
+#: ../dnd/map_dd.php:16
+msgid "ROADMAP"
+msgstr ""
+
+#: ../dnd/map_dd.php:17
+msgid "SATELLITE"
+msgstr ""
+
+#: ../dnd/map_dd.php:18
+msgid "HYBRID"
+msgstr ""
+
+#: ../dnd/map_dd.php:19
+msgid "TERRAIN"
+msgstr ""
+
+#: ../dnd/map_dd.php:25
+msgid "Map Center Latitude"
+msgstr ""
+
+#: ../dnd/map_dd.php:29
+msgid "Map Center Longitude"
+msgstr ""
+
+#: ../dnd/map_dd.php:34
+msgid "Zoom Level"
+msgstr ""
+
+#: ../dnd/map_dd.php:36
+msgid "1"
+msgstr ""
+
+#: ../dnd/map_dd.php:37
+msgid "2"
+msgstr ""
+
+#: ../dnd/map_dd.php:38
+msgid "3"
+msgstr ""
+
+#: ../dnd/map_dd.php:39
+msgid "4"
+msgstr ""
+
+#: ../dnd/map_dd.php:40
+msgid "5"
+msgstr ""
+
+#: ../dnd/map_dd.php:41
+msgid "6"
+msgstr ""
+
+#: ../dnd/map_dd.php:42
+msgid "7"
+msgstr ""
+
+#: ../dnd/map_dd.php:43
+msgid "8"
+msgstr ""
+
+#: ../dnd/map_dd.php:44
+msgid "9"
+msgstr ""
+
+#: ../dnd/map_dd.php:45
+msgid "10"
+msgstr ""
+
+#: ../dnd/map_dd.php:46
+msgid "11"
+msgstr ""
+
+#: ../dnd/map_dd.php:47
+msgid "12"
+msgstr ""
+
+#: ../dnd/map_dd.php:48
+msgid "13"
+msgstr ""
+
+#: ../dnd/map_dd.php:49
+msgid "14"
+msgstr ""
+
+#: ../dnd/map_dd.php:50
+msgid "15"
+msgstr ""
+
+#: ../dnd/map_dd.php:51
+msgid "16"
+msgstr ""
+
+#: ../dnd/map_dd.php:52
+msgid "17"
+msgstr ""
+
+#: ../dnd/map_dd.php:53
+msgid "18"
+msgstr ""
+
+#: ../dnd/map_dd.php:54
+msgid "19"
+msgstr ""
+
+#: ../dnd/map_dd.php:55
+msgid "20"
+msgstr ""
+
+#: ../dnd/map_dd.php:56
+msgid "21"
+msgstr ""
+
+#: ../dnd/map_dd.php:62
+msgid "Enable Scrollweel"
+msgstr ""
+
+#: ../dnd/map_dd.php:67
+msgid "Show Map Type Controls"
+msgstr ""
+
+#: ../dnd/map_dd.php:72
+msgid "Show Pan Controls"
+msgstr ""
+
+#: ../dnd/map_dd.php:77
+msgid "Show Zoom Controls"
+msgstr ""
+
+#: ../dnd/map_dd.php:82
+msgid "Show Scale Controls"
+msgstr ""
+
+#: ../dnd/map_dd.php:86
+msgid "Marker Title"
+msgstr ""
+
+#: ../dnd/map_dd.php:90
+msgid "Custom Marker Image"
+msgstr ""
+
+#: ../dnd/map_dd.php:94
+msgid "Marker Content"
+msgstr ""
+
+#: ../dnd/map_dd.php:98
+msgid "Marker Latitude"
+msgstr ""
+
+#: ../dnd/map_dd.php:102
+msgid "Marker Longitude"
+msgstr ""
+
+#: ../dnd/map_dd.php:105
+msgid "Google Map"
+msgstr ""
+
+#: ../dnd/member_dd.php:9
+msgid "Content in this shortcode will be vissible to registered users only"
+msgstr ""
+
+#: ../dnd/member_dd.php:10
+msgid "Members Only Content "
+msgstr ""
+
+#: ../dnd/non_member_dd.php:9
+msgid ""
+"Content in this shortcode will be visible to non-registered visitors only"
+msgstr ""
+
+#: ../dnd/non_member_dd.php:10
+msgid "Non Members Only Content "
+msgstr ""
+
+#: ../dnd/posts_dd.php:8
+msgid "Category"
+msgstr ""
+
+#: ../dnd/posts_dd.php:11
+msgid "Posts IDs"
+msgstr ""
+
+#: ../dnd/posts_dd.php:15
+msgid "Order"
+msgstr ""
+
+#: ../dnd/posts_dd.php:17
+msgid "ASC"
+msgstr ""
+
+#: ../dnd/posts_dd.php:18
+msgid "DESC"
+msgstr ""
+
+#: ../dnd/posts_dd.php:23
+msgid "Order by"
+msgstr ""
+
+#: ../dnd/posts_dd.php:25
+msgid "ID"
+msgstr ""
+
+#: ../dnd/posts_dd.php:26
+msgid "none"
+msgstr ""
+
+#: ../dnd/posts_dd.php:27
+msgid "author"
+msgstr ""
+
+#: ../dnd/posts_dd.php:28
+msgid "title"
+msgstr ""
+
+#: ../dnd/posts_dd.php:29
+msgid "name"
+msgstr ""
+
+#: ../dnd/posts_dd.php:30
+msgid "date"
+msgstr ""
+
+#: ../dnd/posts_dd.php:31
+msgid "modified"
+msgstr ""
+
+#: ../dnd/posts_dd.php:32
+msgid "parent"
+msgstr ""
+
+#: ../dnd/posts_dd.php:33
+msgid "rand"
+msgstr ""
+
+#: ../dnd/posts_dd.php:34
+msgid "menu_order"
+msgstr ""
+
+#: ../dnd/posts_dd.php:35
+msgid "post__in"
+msgstr ""
+
+#: ../dnd/posts_dd.php:39
+msgid "Post Parent"
+msgstr ""
+
+#: ../dnd/posts_dd.php:43
+msgid "Post Type"
+msgstr ""
+
+#: ../dnd/posts_dd.php:47 ../dnd/rss_dd.php:11
+msgid "Number of Posts"
+msgstr ""
+
+#: ../dnd/posts_dd.php:51
+msgid "Offset"
+msgstr ""
+
+#: ../dnd/posts_dd.php:54
+msgid "Tag"
+msgstr ""
+
+#: ../dnd/posts_dd.php:58
+msgid "Tax Operator"
+msgstr ""
+
+#: ../dnd/posts_dd.php:61
+msgid "Tax Term"
+msgstr ""
+
+#: ../dnd/posts_dd.php:64
+msgid "Taxonomy"
+msgstr ""
+
+#: ../dnd/posts_dd.php:67
+msgid "Custom Excerpt Limit Words"
+msgstr ""
+
+#: ../dnd/posts_dd.php:68
+msgid ""
+"How many words you want to display? If left empty default WordPress excerpt "
+"will be used."
+msgstr ""
+
+#: ../dnd/posts_dd.php:71
+msgid "Posts Excerpts"
+msgstr ""
+
+#: ../dnd/pre_dd.php:14
+msgid "Preformated Content"
+msgstr ""
+
+#: ../dnd/pre_dd.php:17
+msgid "Preformated Block"
+msgstr ""
+
+#: ../dnd/pre_dd.php:18
+msgid ""
+"If you are using multiple pre shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:7 ../dnd/pricing_box_dd.php:159
+msgid "Pricing Feature"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:8
+msgid "Add Pricing Feature"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:11 ../dnd/team_dd.php:16
+msgid "Name"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:14
+msgid "Decsription"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:19
+msgid "Is Featured?"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:22
+msgid "Featured Info"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:25
+msgid "Price"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:28
+msgid "Currency Sign"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:31
+msgid "Monthly Text"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:37 ../dnd/team_dd.php:11
+msgid "Style 1"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:38 ../dnd/team_dd.php:12
+msgid "Style 2"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:102
+msgid "Pricing Box"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:143
+msgid "Feature Name"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:146
+msgid "Value"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:151
+msgid "Avaliable"
+msgstr ""
+
+#: ../dnd/pricing_box_dd.php:156
+msgid "Not Avaliable"
+msgstr ""
+
+#: ../dnd/progress_bar_dd.php:9
+msgid "Percentage"
+msgstr ""
+
+#: ../dnd/progress_bar_dd.php:15
+msgid "Bar Color"
+msgstr ""
+
+#: ../dnd/progress_bar_dd.php:24
+msgid "Progress Bar"
+msgstr ""
+
+#: ../dnd/pullquote_dd.php:10
+msgid "Span 1-11"
+msgstr ""
+
+#: ../dnd/pullquote_dd.php:14 ../dnd/qrcode_dd.php:16
+msgid "Align"
+msgstr ""
+
+#: ../dnd/pullquote_dd.php:17 ../dnd/qrcode_dd.php:20 ../dnd/tabs_dd.php:14
+#: ../inc/ab-shortcodes-additional.php:67
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:148
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: ../dnd/pullquote_dd.php:18 ../dnd/qrcode_dd.php:21 ../dnd/tabs_dd.php:15
+#: ../inc/ab-shortcodes-additional.php:68
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:134
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: ../dnd/pullquote_dd.php:25
+msgid "Pullquote"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:8
+msgid "Alt Text"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:12
+msgid "Size px"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:25
+msgid "MeCard Name"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:28
+msgid "MeCard Address"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:31
+msgid "MeCard Telephone"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:34
+msgid "MeCard Email"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:37
+msgid "MeCard URL"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:41
+msgid "Quality"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:44
+msgid "H"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:45
+msgid "L"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:46
+msgid "M"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:47
+msgid "Q"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:53
+msgid "Border"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:62
+msgid "Use current page/post URL"
+msgstr ""
+
+#: ../dnd/qrcode_dd.php:65
+msgid "QR Code"
+msgstr ""
+
+#: ../dnd/raw_dd.php:10
+msgid "Unique Block ID"
+msgstr ""
+
+#: ../dnd/raw_dd.php:18
+msgid "Raw Block"
+msgstr ""
+
+#: ../dnd/raw_dd.php:19
+msgid ""
+"If you are using multiple raw shortcodes on same page every one must have "
+"his own Unique ID"
+msgstr ""
+
+#: ../dnd/rss_dd.php:23
+msgid "RSS Feed"
+msgstr ""
+
+#: ../dnd/rss_dd.php:41
+msgid "No RSS items loaded"
+msgstr ""
+
+#: ../dnd/rss_dd.php:45
+msgid "Posted"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:10
+msgid "Icon name"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:17
+msgid "Round"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:18
+msgid "Square"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:19
+msgid "Round Stroke"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:20
+msgid "Round Aside"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:21
+msgid "Aside Small"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:25 ../dnd/tooltip_dd.php:12
+msgid "Link"
+msgstr ""
+
+#: ../dnd/service_box_dd.php:44
+msgid "Service Box"
+msgstr ""
+
+#: ../dnd/sidebar_dd.php:9
+msgid "Sidebar Name or ID"
+msgstr ""
+
+#: ../dnd/sidebar_dd.php:12
+msgid "Sidebar with widgets"
+msgstr ""
+
+#: ../dnd/sidebar_dd.php:13
+msgid ""
+"Display sidebar and all its widgets anywhere inside content. You can create "
+"unlimited number of sidebars in Drag&Drop options."
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:10
+msgid "Hide Pages"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:15
+msgid "Hide Categories"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:20
+msgid "Hide Authors"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:23
+msgid "Sitemap"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:28
+msgid "Pages"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:29
+msgid "Categories"
+msgstr ""
+
+#: ../dnd/sitemap_dd.php:30
+msgid "Authors"
+msgstr ""
+
+#: ../dnd/spacer_dd.php:9
+msgid "Height in Pixels"
+msgstr ""
+
+#: ../dnd/spacer_dd.php:12
+msgid "Spacer"
+msgstr ""
+
+#: ../dnd/spacer_dd.php:13
+msgid "This shortcode will add additional vertical space between elements"
+msgstr ""
+
+#: ../dnd/stats_excerpt_dd.php:11
+msgid "Stats Number"
+msgstr ""
+
+#: ../dnd/stats_excerpt_dd.php:14
+msgid "Stats Number Sign"
+msgstr ""
+
+#: ../dnd/stats_excerpt_dd.php:18
+msgid "Animation duration (ms)"
+msgstr ""
+
+#: ../dnd/stats_excerpt_dd.php:21
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:149
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: ../dnd/stats_excerpt_dd.php:28
+msgid "Stats Excerpt"
+msgstr ""
+
+#: ../dnd/table_dd.php:9
+msgid "Alternative Styling"
+msgstr ""
+
+#: ../dnd/table_dd.php:14
+msgid "Rows with Hover"
+msgstr ""
+
+#: ../dnd/table_dd.php:19
+msgid "Striped Rows"
+msgstr ""
+
+#: ../dnd/table_dd.php:24
+msgid "Condensed Table"
+msgstr ""
+
+#: ../dnd/table_dd.php:36
+msgid "Table"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:9
+msgid "Tabs Position"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:12
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:127
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:13
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:141
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:20 ../inc/ab-shortcodes-additional.php:43
+msgid "Transition Effect"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:24
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:25 ../inc/ab-shortcodes-additional.php:47
+msgid "Fade"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:29
+msgid "Selected Tab"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:30
+msgid "Initially selected tab, order number"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:34
+msgid "Break Point"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:35
+msgid "Width in px. Below this width tabs will be stacked on each other."
+msgstr ""
+
+#: ../dnd/tabs_dd.php:43
+msgid "New Tab"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:44
+msgid "Tab no."
+msgstr ""
+
+#: ../dnd/tabs_dd.php:45
+msgid "Tabs"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:75
+msgid "Tab Title"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:82
+msgid "Tab Content"
+msgstr ""
+
+#: ../dnd/tabs_dd.php:84
+msgid "Single Tab"
+msgstr ""
+
+#: ../dnd/team_dd.php:19
+msgid "Position"
+msgstr ""
+
+#: ../dnd/team_dd.php:23
+msgid "Image URL"
+msgstr ""
+
+#: ../dnd/team_dd.php:26
+msgid "Profile URL"
+msgstr ""
+
+#: ../dnd/team_dd.php:27
+msgid "Link to about page"
+msgstr ""
+
+#: ../dnd/team_dd.php:31
+msgid "Use Modal Instead Link"
+msgstr ""
+
+#: ../dnd/team_dd.php:32
+msgid ""
+"Modal window will appear on click instead of following a link. Use content "
+"to add modal window content"
+msgstr ""
+
+#: ../dnd/team_dd.php:35
+msgid "E-mail address"
+msgstr ""
+
+#: ../dnd/team_dd.php:74
+msgid "Last.fm URL"
+msgstr ""
+
+#: ../dnd/team_dd.php:83
+msgid "StumbleUpon URL"
+msgstr ""
+
+#: ../dnd/team_dd.php:89
+msgid "Social Link Target"
+msgstr ""
+
+#: ../dnd/team_dd.php:99
+msgid "Social icons under position"
+msgstr ""
+
+#: ../dnd/team_dd.php:100
+msgid ""
+"If enabled social icons will appear under position instead on image overlay."
+msgstr ""
+
+#: ../dnd/team_dd.php:104
+msgid "Team Member"
+msgstr ""
+
+#: ../dnd/text_dd.php:16
+msgid "Text / HTML"
+msgstr ""
+
+#: ../dnd/text_dd.php:17
+msgid ""
+"This shortcode is used by drag and drop builder to wrap text content inside "
+"column, so it can be manipulated as element"
+msgstr ""
+
+#: ../dnd/toggle_dd.php:10
+msgid "Expanded"
+msgstr ""
+
+#: ../dnd/toggle_dd.php:18
+msgid "Toggle Content"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:24
+msgid "Tooltip Gravity"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:28
+msgid "South"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:29
+msgid "North"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:30
+msgid "East"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:31
+msgid "West"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:32
+msgid "Northwest"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:33
+msgid "Northeast"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:34
+msgid "Southwest"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:35
+msgid "Southeast"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:40
+msgid "Tooltip Content"
+msgstr ""
+
+#: ../dnd/tooltip_dd.php:42
+msgid "Tooltip"
+msgstr ""
+
+#: ../dnd/ul_dd.php:7 ../dnd/ul_dd.php:97
+msgid "List Item"
+msgstr ""
+
+#: ../dnd/ul_dd.php:8
+msgid "Add List Item"
+msgstr ""
+
+#: ../dnd/ul_dd.php:60
+msgid "Inner Delay (ms)"
+msgstr ""
+
+#: ../dnd/ul_dd.php:64
+msgid "Unordered List"
+msgstr ""
+
+#: ../dnd/ul_dd.php:95
+msgid "Item Content"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:8 ../dnd/youtube_dd.php:8
+msgid "Video ID or URL"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:13
+msgid "Show Title"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:18
+msgid "Show By Line"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:23
+msgid "Show Portrait"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:28 ../dnd/youtube_dd.php:18
+#: ../inc/ab-shortcodes-additional.php:74
+msgid "Autoplay"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:33
+msgid "Loop Playing"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:38
+msgid "Controls Color"
+msgstr ""
+
+#: ../dnd/vimeo_dd.php:41
+msgid "Vimeo Video"
+msgstr ""
+
+#: ../dnd/visible_dd.php:18
+msgid "Visible on devices"
+msgstr ""
+
+#: ../dnd/visible_dd.php:24
+msgid "Visible Only on Devices"
+msgstr ""
+
+#: ../dnd/visible_dd.php:25
+msgid ""
+"This shortcode will make content visible only on selected devices, using "
+"@media css method"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:13
+msgid "Fullscreen Button"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:23
+msgid "Modest Branding"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:28
+msgid "Controls"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:33
+msgid "Show Info Before Play"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:38
+msgid "Show Related When Video Ends"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:41
+msgid "Start Playing at (in seconds)"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:44
+msgid "Stop Playing at (in seconds)"
+msgstr ""
+
+#: ../dnd/youtube_dd.php:47
+msgid "Youtube Video Embed"
+msgstr ""
+
+#: ../footer.php:8
+msgid "Back to top"
+msgstr ""
+
+#: ../functions.php:79
+msgid "Header Menu"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:15
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:18
+msgid "Number of Testimonials to Show"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:24
+msgid "Show Navigation Arrows"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:27
+msgid "Delay"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:31
+msgid "Animation Duration"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:38
+msgid "Big without image"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:39
+msgid "Small with image"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:48
+msgid "Crossfade"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:49
+msgid "Cover Fade"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:53
+msgid "Easing Effect"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:56
+msgid "Linear"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:58
+msgid "Quadratic"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:59
+msgid "Cubic"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:60
+msgid "Elastic"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:64
+msgid "Slide Direction"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:77
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:80
+msgid "No"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:81
+msgid "Resume"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:82
+msgid "Immediate"
+msgstr ""
+
+#: ../inc/ab-shortcodes-additional.php:90
+msgid "AB Testimonial Slider"
+msgstr ""
+
+#: ../inc/activate_plugins.php:83 ../inc/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/activate_plugins.php:84 ../inc/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/activate_plugins.php:85 ../inc/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/activate_plugins.php:86
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/activate_plugins.php:97 ../inc/class-tgm-plugin-activation.php:211
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/activate_plugins.php:98 ../inc/class-tgm-plugin-activation.php:213
+#: ../inc/class-tgm-plugin-activation.php:2005
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/activate_plugins.php:99
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:12
+#: ../inc/admin/categories_additional_fields.php:64
+msgid "Blog Layout"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:17
+#: ../inc/admin/categories_additional_fields.php:68
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:18
+#: ../inc/admin/categories_additional_fields.php:69
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:19
+#: ../inc/admin/categories_additional_fields.php:70
+msgid "No Sidebar"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:20
+#: ../inc/admin/categories_additional_fields.php:71
+msgid "Masonry 3 Columns"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:21
+msgid "Masonry 4 columns"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:28
+#: ../inc/admin/categories_additional_fields.php:78
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:49
+#: ../inc/admin/categories_additional_fields.php:99
+msgid ""
+"Please select the sidebar you would like to display on this category. Note: "
+"If you like to use custom sidebar you must first create it under Revelance > "
+"Sidebars."
+msgstr ""
+
+#: ../inc/admin/categories_additional_fields.php:72
+msgid "Masonry 4 Columns"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:66
+msgid "Frontpage options"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:67
+msgid "Display categories"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:68
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:146
+msgid ""
+"Portfolio plugin must be installed and at least one portfolio category "
+"created"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:186
+msgid "Revolution Slider Options"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:193
+msgid "No sliders found, Please create a slider"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:199
+msgid "Choose Slider"
+msgstr ""
+
+#: ../inc/admin/page_additional_fields.php:206
+msgid "Slider Revolution plugin not installed"
+msgstr ""
+
+#: ../inc/admin/post_additional_fields.php:34
+msgid "Here you can set other media to be shown instead of featured image."
+msgstr ""
+
+#: ../inc/admin/post_additional_fields.php:39
+msgid "Youtube Video ID:"
+msgstr ""
+
+#: ../inc/admin/post_additional_fields.php:46
+msgid "Vimeo Video ID:"
+msgstr ""
+
+#: ../inc/admin/post_additional_fields.php:53
+msgid "SoundCloud ID:"
+msgstr ""
+
+#: ../inc/admin/post_additional_fields.php:60
+msgid "None - Use Featured Image"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:6
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:7
+msgid "Forum"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:8
+#, php-format
+msgid "Archive for \"%s\""
+msgstr ""
+
+#: ../inc/breadcrumbs.php:9
+#, php-format
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: ../inc/breadcrumbs.php:10
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../inc/breadcrumbs.php:11
+#, php-format
+msgid "Articles by %s"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:12
+msgid "Error 404"
+msgstr ""
+
+#: ../inc/breadcrumbs.php:123
+msgid "Page"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:212
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:214
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:215
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:216
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:564
+#: ../inc/class-tgm-plugin-activation.php:2222
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1201
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1204
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1209
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1212
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1215
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1217
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1219
+msgid "Not Updated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1221
+#: ../inc/redux/ReduxCore/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1322
+#: ../inc/class-tgm-plugin-activation.php:1452
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1344
+#: ../inc/class-tgm-plugin-activation.php:1453
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1416
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1431
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1434
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1454
+msgid "Update"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1564
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1673
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1988
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1989
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1990
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1991
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1992
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1993
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2004
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2118
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#: ../inc/class-tgm-plugin-activation.php:2128
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2119
+#: ../inc/class-tgm-plugin-activation.php:2128
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2120
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2121
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2125
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2126
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2127
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2128
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2129
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2130
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/redux.php:44
+msgid "Revelance"
+msgstr ""
+
+#: ../inc/redux.php:45
+msgid "Revelance Options"
+msgstr ""
+
+#: ../inc/redux.php:96
+msgid "General"
+msgstr ""
+
+#: ../inc/redux.php:101
+msgid "Disable Responsiveness"
+msgstr ""
+
+#: ../inc/redux.php:107
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/redux.php:113
+msgid "Hide Comments"
+msgstr ""
+
+#: ../inc/redux.php:114
+msgid "Check this to hide WordPress commenting system"
+msgstr ""
+
+#: ../inc/redux.php:119
+msgid "Use Preloader"
+msgstr ""
+
+#: ../inc/redux.php:124
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/redux.php:125
+msgid "Here you can place additional CSS or CSS to override theme's styles"
+msgstr ""
+
+#: ../inc/redux.php:134
+msgid "Analytics Code"
+msgstr ""
+
+#: ../inc/redux.php:135
+msgid ""
+"Here you can paste Google Analytics (or similar, html valid) code to be "
+"printed out on every page just before closing body tag"
+msgstr ""
+
+#: ../inc/redux.php:143
+msgid "Show Demo Style Selector"
+msgstr ""
+
+#: ../inc/redux.php:144
+msgid "This is used for theme demo purpose"
+msgstr ""
+
+#: ../inc/redux.php:152
+msgid "Header"
+msgstr ""
+
+#: ../inc/redux.php:157
+msgid "Header Logo"
+msgstr ""
+
+#: ../inc/redux.php:158
+msgid "Upload header logo"
+msgstr ""
+
+#: ../inc/redux.php:163
+msgid "Inversed Header Logo"
+msgstr ""
+
+#: ../inc/redux.php:164
+msgid "Upload inversed header logo, to use over slider"
+msgstr ""
+
+#: ../inc/redux.php:179
+msgid "Googleplus URL"
+msgstr ""
+
+#: ../inc/redux.php:219
+msgid "Mail URL"
+msgstr ""
+
+#: ../inc/redux.php:267
+msgid "Icons"
+msgstr ""
+
+#: ../inc/redux.php:272
+msgid "Complete theme's icons names list"
+msgstr ""
+
+#: ../inc/redux.php:273
+msgid "<br>Icon list with all icons and their names can be found <a href=\""
+msgstr ""
+
+#: ../inc/redux.php:283
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/redux.php:289
+msgid "Add as many custom sidebars as you need"
+msgstr ""
+
+#: ../inc/redux.php:299
+msgid "Colors"
+msgstr ""
+
+#: ../inc/redux.php:304
+msgid "Main Color"
+msgstr ""
+
+#: ../inc/redux.php:311
+msgid "Dark Scheme"
+msgstr ""
+
+#: ../inc/redux.php:318
+msgid "Preset Colors"
+msgstr ""
+
+#: ../inc/redux.php:320
+msgid "Load some of our preset colors"
+msgstr ""
+
+#: ../inc/redux.php:336 ../index.php:15
+msgid "Blog"
+msgstr ""
+
+#: ../inc/redux.php:341
+msgid "Additional Content After Category"
+msgstr ""
+
+#: ../inc/redux.php:342
+msgid ""
+"Enter content to be shown at the bottom of blog category page, before footer."
+msgstr ""
+
+#: ../inc/redux.php:347
+msgid "Additional Content After Single Post"
+msgstr ""
+
+#: ../inc/redux.php:348
+msgid ""
+"Enter content to be shown at the bottom of single post page, before footer."
+msgstr ""
+
+#: ../inc/redux.php:358
+msgid "Footer"
+msgstr ""
+
+#: ../inc/redux.php:363
+msgid "Hide Back to Top"
+msgstr ""
+
+#: ../inc/redux.php:368
+msgid "Footer Punchline"
+msgstr ""
+
+#: ../inc/redux.php:373
+msgid "Copyright Notice"
+msgstr ""
+
+#: ../inc/redux.php:374
+msgid "Enter copyright notice to be shown in footer"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:473
+#: ../inc/redux/ReduxCore/framework.php:1946
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:474
+#: ../inc/redux/ReduxCore/framework.php:1954
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:475
+#: ../inc/redux/ReduxCore/framework.php:1970
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:508
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:509
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/extensions/customizer/extension_customizer.php:510
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:213
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:213
+msgid "Redux Framework"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:217
+#: ../inc/redux/ReduxCore/framework.php:221
+msgid "Options"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:1365
+#: ../inc/redux/ReduxCore/framework.php:1366
+#: ../inc/redux/ReduxCore/framework.php:3575
+#: ../inc/redux/ReduxCore/framework.php:3654
+msgid "System Info"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:1962
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:1977
+msgid "Please Wait"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2102
+msgid "Enable"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2107
+msgid "Disable"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2113
+msgid "moving the mouse over"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2115
+msgid "clicking"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2119
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:2124
+msgid "Hints"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3322
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3373
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3401
+msgid "Expand"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3403
+#: ../inc/redux/ReduxCore/framework.php:3711
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3407
+#: ../inc/redux/ReduxCore/framework.php:3715
+msgid "Reset Section"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3409
+#: ../inc/redux/ReduxCore/framework.php:3717
+msgid "Reset All"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3414
+#: ../inc/redux/ReduxCore/framework.php:3722
+msgid "Working..."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3434
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3449
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3463
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3477
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3495
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3503
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/framework.php:3511
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/class.redux_functions.php:253
+msgid "Dismiss"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/class.redux_themecheck.php:61
+#, php-format
+msgid ""
+"The theme you are testing has %s embedded. We invite you to read the %sTheme-"
+"Check Documentation%s to understand some warnings you will see because of "
+"Redux."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/class.redux_themecheck.php:109
+msgid ""
+"The following directories & files are still located in your <strong>Redux</"
+"strong>  directory. They may cause errors in Theme-Check."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/debug.php:41
+#: ../inc/redux/ReduxCore/inc/debug.php:69
+#: ../inc/redux/ReduxCore/inc/debug.php:76
+#: ../inc/redux/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:124
+#: ../inc/redux/ReduxCore/inc/fields/color/field_color.php:72
+#: ../inc/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: ../inc/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: ../inc/redux/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:277
+#: ../inc/redux/ReduxCore/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:314
+#: ../inc/redux/ReduxCore/inc/fields/media/field_media.php:193
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:126
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/background/field_background.php:321
+#: ../inc/redux/ReduxCore/inc/fields/media/field_media.php:200
+#: ../inc/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:69
+#: ../inc/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:73
+#: ../inc/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:76
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:133
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:114
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: ../inc/redux/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: ../inc/redux/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/multi_text/field_multi_text.php:61
+msgid "Add More"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/select/field_select.php:82
+#: ../inc/redux/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/select/field_select.php:126
+#: ../inc/redux/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:167
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:227
+msgid "Font Family"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:228
+msgid "Font family"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:254
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:255
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:269
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:276
+msgid "Font style"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:270
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:316
+msgid "Font subsets"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:318
+msgid "Font Subsets"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Subsets"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:319
+msgid "Font script"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:336
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:337
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Text Align"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:359
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:360
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:361
+msgid "Text Transform"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:382
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:383
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:384
+msgid "Font Variant"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:402
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:403
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:404
+msgid "Text Decoration"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:426
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:427
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:435
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:436
+msgid "Line Height"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:444
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:445
+msgid "Word Spacing"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:453
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:454
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:472
+msgid "Font Color"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:474
+msgid "Font color"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:841
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/fields/typography/field_typography.php:942
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/import_export.php:140
+#: ../inc/redux/ReduxCore/inc/import_export.php:149
+#: ../inc/redux/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:152
+#: ../inc/redux/ReduxCore/inc/welcome.php:139
+msgid "Getting Started"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:154
+msgid "Redux Extensions"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/color/validation_color.php:15
+#: ../inc/redux/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: ../inc/redux/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/email/validation_email.php:16
+#: ../inc/redux/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: ../inc/redux/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:40
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:48
+#: ../inc/redux/ReduxCore/inc/welcome.php:295
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:56
+msgid "Getting started with Redux Framework"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:64
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:135
+msgid "What's New"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:143
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:147
+msgid "Credits"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:164
+#: ../inc/redux/ReduxCore/inc/welcome.php:333
+#: ../inc/redux/ReduxCore/inc/welcome.php:471
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:167
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"<add description>"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:169
+#: ../inc/redux/ReduxCore/inc/welcome.php:300
+#: ../inc/redux/ReduxCore/inc/welcome.php:338
+#: ../inc/redux/ReduxCore/inc/welcome.php:476
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:174
+msgid "Some Feature"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:178
+#: ../inc/redux/ReduxCore/inc/welcome.php:182
+#: ../inc/redux/ReduxCore/inc/welcome.php:195
+#: ../inc/redux/ReduxCore/inc/welcome.php:199
+#: ../inc/redux/ReduxCore/inc/welcome.php:203
+#: ../inc/redux/ReduxCore/inc/welcome.php:208
+#: ../inc/redux/ReduxCore/inc/welcome.php:221
+#: ../inc/redux/ReduxCore/inc/welcome.php:225
+#: ../inc/redux/ReduxCore/inc/welcome.php:230
+msgid "Feature"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:190
+msgid "Some feature"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:217
+msgid "More Features"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:223
+#: ../inc/redux/ReduxCore/inc/welcome.php:227
+#: ../inc/redux/ReduxCore/inc/welcome.php:232
+msgid "description"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:238
+msgid "Additional Updates"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:242
+#: ../inc/redux/ReduxCore/inc/welcome.php:246
+#: ../inc/redux/ReduxCore/inc/welcome.php:252
+#: ../inc/redux/ReduxCore/inc/welcome.php:256
+#: ../inc/redux/ReduxCore/inc/welcome.php:262
+#: ../inc/redux/ReduxCore/inc/welcome.php:266
+msgid "Cool thing"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:244
+#: ../inc/redux/ReduxCore/inc/welcome.php:248
+#: ../inc/redux/ReduxCore/inc/welcome.php:254
+#: ../inc/redux/ReduxCore/inc/welcome.php:258
+#: ../inc/redux/ReduxCore/inc/welcome.php:264
+#: ../inc/redux/ReduxCore/inc/welcome.php:268
+msgid "cool thing description."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:277
+#: ../inc/redux/ReduxCore/inc/welcome.php:316
+msgid "Go to Redux Framework"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:278
+msgid "View the Full Changelog"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:298
+#: ../inc/redux/ReduxCore/inc/welcome.php:336
+#: ../inc/redux/ReduxCore/inc/welcome.php:474
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is ready to "
+"make your <description>"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:305
+msgid "Full Changelog"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:342
+msgid ""
+"Use the tips below to get started using Redux Framework. You'll be up and "
+"running in no time!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:345
+msgid "Creating Your First Panel"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:350
+#, php-format
+msgid "<a href=\"%s\">%s &rarr; Add New</a>"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:352
+#, php-format
+msgid ""
+"The %s menu is your access point for all aspects of your Easy Digital "
+"Downloads product creation and setup. To create your first product, simply "
+"click Add New and then fill out the product details."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:354
+msgid "Product Price"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:356
+msgid ""
+"Products can have simple prices or variable prices if you wish to have more "
+"than one price point for a product. For a single price, simply enter the "
+"price. For multiple price points, click <em>Enable variable pricing</em> and "
+"enter the options."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:358
+msgid "Download Files"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:360
+msgid ""
+"Uploading the downloadable files is simple. Click <em>Upload File</em> in "
+"the Download Files section and choose your download file. To add more than "
+"one file, simply click the <em>Add New</em> button."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:366
+msgid "Display a Product Grid"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:373
+msgid "Flexible Product Grids"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:375
+msgid ""
+"The [downloads] shortcode will display a product grid that works with any "
+"theme, no matter the size. It is even responsive!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:377
+msgid "Change the Number of Columns"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:379
+msgid ""
+"You can easily change the number of columns by adding the columns=\"x\" "
+"parameter:"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:385
+msgid "Additional Display Options"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:387
+#, php-format
+msgid ""
+"The product grids can be customized in any way you wish and there is <a href="
+"\"%s\">extensive documentation</a> to assist you."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:392
+msgid "Purchase Buttons Anywhere"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:397
+msgid "The <em>[purchase_link]</em> Shortcode"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:399
+msgid ""
+"With easily accessible shortcodes to display purchase buttons, you can add a "
+"Buy Now or Add to Cart button for any product anywhere on your site in "
+"seconds."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:401
+msgid "Buy Now Buttons"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:403
+msgid ""
+"Purchase buttons can behave as either Add to Cart or Buy Now buttons. With "
+"Buy Now buttons customers are taken straight to PayPal, giving them the most "
+"frictionless purchasing experience possible."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:409
+msgid "Need Help?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:413
+msgid "Phenomenal Support"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:415
+msgid ""
+"We do our best to provide the best support we can. If you encounter a "
+"problem or have a question, post a question in the <a href=\"https://"
+"easydigitaldownloads.com/support\">support forums</a>."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:417
+msgid "Need Even Faster Support?"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:419
+msgid ""
+"Our <a href=\"https://easydigitaldownloads.com/support/pricing/\">Priority "
+"Support forums</a> are there for customers that need faster and/or more in-"
+"depth assistance."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:425
+msgid "Stay Up to Date"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:429
+msgid "Get Notified of Extension Releases"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:431
+msgid ""
+"New extensions that make Easy Digital Downloads even more powerful are "
+"released nearly every single week. Subscribe to the newsletter to stay up to "
+"date with our latest releases. <a href=\"http://eepurl.com/kaerz\" target="
+"\"_blank\">Signup now</a> to ensure you do not miss a release!"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:433
+msgid "Get Alerted About New Tutorials"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:435
+msgid ""
+"<a href=\"http://eepurl.com/kaerz\" target=\"_blank\">Signup now</a> to hear "
+"about the latest tutorial releases that explain how to take Easy Digital "
+"Downloads further."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:441
+msgid "Extensions for Everything"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:445
+msgid "Over 250 Extensions"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:447
+msgid ""
+"Add-on plugins are available that greatly extend the default functionality "
+"of Easy Digital Downloads. There are extensions for payment processors, such "
+"as Stripe and PayPal, extensions for newsletter integrations, and many, many "
+"more."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:449
+msgid "Visit the Extension Store"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:451
+msgid ""
+"<a href=\"https://asydigitaldownloads.com/extensions\" target=\"_blank\">The "
+"Extensions store</a> has a list of all available extensions, including "
+"convenient category filters so you can find exactly what you are looking for."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:480
+msgid ""
+"Redux Framework is created by a worldwide team of developers who <something "
+"witty here>"
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:500
+msgid "No valid changlog was found."
+msgstr ""
+
+#: ../inc/redux/ReduxCore/inc/welcome.php:539
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:410
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: ../inc/redux/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: ../inc/sidebars.php:5 ../index.php:163 ../sidebar.php:3 ../single.php:71
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../inc/sidebars.php:7
+msgid "The Primary Widget Area"
+msgstr ""
+
+#: ../inc/sidebars.php:16 ../inc/sidebars.php:18 ../search.php:29
+msgid "Search Results Sidebar"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:7
+msgid "Photostream from Flickr."
+msgstr ""
+
+#: ../inc/widgets/flickr.php:12
+msgid "Flickr stream"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:50
+msgid "Invalid flickr username or connection error."
+msgstr ""
+
+#: ../inc/widgets/flickr.php:66
+msgid "Photos from Flickr"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:69
+msgid "Title:"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:73
+msgid "Flickr username:"
+msgstr ""
+
+#: ../inc/widgets/flickr.php:77
+msgid "No. of images:"
+msgstr ""
+
+#: ../index.php:11 ../index.php:78 ../page-portfolio.php:7
+msgid "Read More"
+msgstr ""
+
+#: ../index.php:23
+msgid "Posts by"
+msgstr ""
+
+#: ../index.php:26
+msgid "Posts Taged"
+msgstr ""
+
+#: ../index.php:30
+msgid "Posts on "
+msgstr ""
+
+#: ../index.php:104 ../index.php:150 ../single.php:53
+msgid "No posts were found. Sorry!"
+msgstr ""
+
+#: ../page-front-page-revolution.php:20
+msgid "You did not select any slider in <i>Front Page Options</i> metabox."
+msgstr ""
+
+#: ../page-portfolio.php:20 ../single-portfolio.php:14
+msgid "This page requires Portfolio plugin to be activated"
+msgstr ""
+
+#: ../page-portfolio.php:76
+msgid "on"
+msgstr ""
+
+#: ../page-portfolio.php:85
+msgid "No Portfolio Posts Found."
+msgstr ""
+
+#: ../partials/comments.php:19
+msgid "Pingback:"
+msgstr ""
+
+#: ../partials/comments.php:19 ../partials/comments.php:55
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: comment author, 2: date and time
+#: ../partials/comments.php:40
+#, php-format
+msgid "%1$s  %2$s"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: ../partials/comments.php:46
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../partials/comments.php:52
+msgid "Reply"
+msgstr ""
+
+#: ../partials/comments.php:57
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../partials/comments.php:73
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../partials/comments.php:91 ../partials/comments.php:112
+msgid "Comment navigation"
+msgstr ""
+
+#: ../partials/comments.php:92 ../partials/comments.php:113
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../partials/comments.php:93 ../partials/comments.php:114
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../partials/comments.php:124
+msgid "Comments are closed."
+msgstr ""
+
+#: ../partials/comments.php:135
+msgid "Name*"
+msgstr ""
+
+#: ../partials/comments.php:138
+msgid "E-mail*"
+msgstr ""
+
+#: ../partials/comments.php:141
+msgid "Website"
+msgstr ""
+
+#: ../partials/comments.php:145
+msgid "Your Comment"
+msgstr ""
+
+#: ../partials/comments.php:152
+msgid "Leave a comment"
+msgstr ""
+
+#: ../partials/demo_style_selector.php:113
+msgid "Select Style"
+msgstr ""
+
+#: ../partials/demo_style_selector.php:129
+msgid ""
+"These are just predefined colors. Unlimited color combinations are possible "
+"via theme options color pickers"
+msgstr ""
+
+#: ../partials/pagination-portfolio.php:18
+#: ../partials/pagination-search.php:16 ../partials/pagination.php:18
+msgid "&laquo; Previous"
+msgstr ""
+
+#: ../partials/pagination-portfolio.php:19
+#: ../partials/pagination-search.php:17 ../partials/pagination.php:19
+msgid "Next &raquo;"
+msgstr ""
+
+#: ../search.php:9
+msgid "Showing Results for: "
+msgstr ""
+
+#: ../search.php:25
+msgid "Sorry, your search query yielded no results."
+msgstr ""
+
+#: ../searchform.php:3
+msgid "Search..."
+msgstr ""
+
+#: ../sidebar.php:7
+msgid "Search"
+msgstr ""
+
+#: ../single-portfolio.php:29
+msgid "Project Details"
+msgstr ""
+
+#: ../single-portfolio.php:32
+msgid "CLIENT"
+msgstr ""
+
+#: ../single-portfolio.php:38
+msgid "DATE"
+msgstr ""
+
+#: ../single-portfolio.php:43
+msgid "IN"
+msgstr ""
+
+#: ../single-portfolio.php:58
+msgid "SKILLS"
+msgstr ""
+
+#: ../single-portfolio.php:65
+msgid "LINK"
+msgstr ""
+
+#: ../single-portfolio.php:72
+msgid "PROJECT DESCRIPTION"
+msgstr ""
+
+#: ../single-portfolio.php:90
+msgid "Related Projects"
+msgstr ""
